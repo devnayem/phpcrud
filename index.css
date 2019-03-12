@@ -1,0 +1,11 @@
+form{
+	width: 80%;
+	margin: 40px auto;
+	text-align: left;
+	padding: 30px;
+	border: 2px solid black;
+	border-radius: 5px;
+}
+.error {
+	color:red;
+}
